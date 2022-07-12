@@ -1,5 +1,4 @@
 http://kunram.github.io/2019/08/03/Welcome/
-http://kunram.github.io/2022/07/12/test/
 http://kunram.github.io/about/index.html
 http://kunram.github.io/tags/index.html
 http://kunram.github.io/
