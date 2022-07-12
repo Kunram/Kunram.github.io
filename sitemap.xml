@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kunram.github.io/2022/07/12/test/</loc>
+    <loc>http://kunram.github.io/2019/08/03/Welcome/</loc>
     
     <lastmod>2022-07-12</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://kunram.github.io/2019/08/03/Welcome/</loc>
+    <loc>http://kunram.github.io/2022/07/12/test/</loc>
     
-    <lastmod>2019-08-03</lastmod>
+    <lastmod>2022-07-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
