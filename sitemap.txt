@@ -5,3 +5,4 @@ http://kunram.github.io/tags/index.html
 http://kunram.github.io/
 http://kunram.github.io/tags/Welcome/
 http://kunram.github.io/tags/Crypto/
+http://kunram.github.io/tags/Crypto-CTF/
