@@ -1,4 +1,3 @@
-http://kunram.github.io/about/index-1.html
 http://kunram.github.io/about/index.html
 http://kunram.github.io/2019/08/03/Welcome/
 http://kunram.github.io/tags/index.html
