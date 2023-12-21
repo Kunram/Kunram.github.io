@@ -65,13 +65,6 @@
 
   
   <url>
-    <loc>http://kunram.github.io/tags/Welcome/</loc>
-    <lastmod>2023-12-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kunram.github.io/tags/Crypto/</loc>
     <lastmod>2023-12-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,6 +73,13 @@
   
   <url>
     <loc>http://kunram.github.io/tags/CTF/</loc>
+    <lastmod>2023-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kunram.github.io/tags/Welcome/</loc>
     <lastmod>2023-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
